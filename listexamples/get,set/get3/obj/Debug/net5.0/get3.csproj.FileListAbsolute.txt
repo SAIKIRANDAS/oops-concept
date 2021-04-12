@@ -1,0 +1,16 @@
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.exe
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.deps.json
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.runtimeconfig.json
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.runtimeconfig.dev.json
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.dll
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\ref\get3.dll
+D:\csharp\3 examples\get,set\get3\bin\Debug\net5.0\get3.pdb
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.csprojAssemblyReference.cache
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.AssemblyInfoInputs.cache
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.AssemblyInfo.cs
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.dll
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\ref\get3.dll
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.pdb
+D:\csharp\3 examples\get,set\get3\obj\Debug\net5.0\get3.genruntimeconfig.cache

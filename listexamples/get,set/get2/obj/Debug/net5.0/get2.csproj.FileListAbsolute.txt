@@ -1,0 +1,5 @@
+D:\csharp\3 examples\get,set\get2\obj\Debug\net5.0\get2.csprojAssemblyReference.cache
+D:\csharp\3 examples\get,set\get2\obj\Debug\net5.0\get2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\get,set\get2\obj\Debug\net5.0\get2.AssemblyInfoInputs.cache
+D:\csharp\3 examples\get,set\get2\obj\Debug\net5.0\get2.AssemblyInfo.cs
+D:\csharp\3 examples\get,set\get2\obj\Debug\net5.0\get2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\csharp\3 examples\poly overloading\overload3\obj\Debug\net5.0\overload3.csprojAssemblyReference.cache
+D:\csharp\3 examples\poly overloading\overload3\obj\Debug\net5.0\overload3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\poly overloading\overload3\obj\Debug\net5.0\overload3.AssemblyInfoInputs.cache
+D:\csharp\3 examples\poly overloading\overload3\obj\Debug\net5.0\overload3.AssemblyInfo.cs
+D:\csharp\3 examples\poly overloading\overload3\obj\Debug\net5.0\overload3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.csprojAssemblyReference.cache
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.AssemblyInfoInputs.cache
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.AssemblyInfo.cs
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.exe
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.deps.json
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.runtimeconfig.json
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.runtimeconfig.dev.json
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.dll
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\ref\overload1.dll
+D:\csharp\3 examples\poly overloading\overload1\bin\Debug\net5.0\overload1.pdb
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.dll
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\ref\overload1.dll
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.pdb
+D:\csharp\3 examples\poly overloading\overload1\obj\Debug\net5.0\overload1.genruntimeconfig.cache

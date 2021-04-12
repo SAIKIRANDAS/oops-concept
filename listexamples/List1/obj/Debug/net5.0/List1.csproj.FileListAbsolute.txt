@@ -1,0 +1,16 @@
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.csprojAssemblyReference.cache
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.AssemblyInfoInputs.cache
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.AssemblyInfo.cs
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.exe
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.deps.json
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.runtimeconfig.json
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.runtimeconfig.dev.json
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.dll
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\ref\List1.dll
+D:\csharp\3 examples\lists\List1\bin\Debug\net5.0\List1.pdb
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.dll
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\ref\List1.dll
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.pdb
+D:\csharp\3 examples\lists\List1\obj\Debug\net5.0\List1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\csharp\get and set\obj\Debug\net5.0\get and set.csprojAssemblyReference.cache
+D:\csharp\get and set\obj\Debug\net5.0\get and set.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\get and set\obj\Debug\net5.0\get and set.AssemblyInfoInputs.cache
+D:\csharp\get and set\obj\Debug\net5.0\get and set.AssemblyInfo.cs
+D:\csharp\get and set\obj\Debug\net5.0\get and set.csproj.CoreCompileInputs.cache
+D:\csharp\get and set\bin\Debug\net5.0\get and set.exe
+D:\csharp\get and set\bin\Debug\net5.0\get and set.deps.json
+D:\csharp\get and set\bin\Debug\net5.0\get and set.runtimeconfig.json
+D:\csharp\get and set\bin\Debug\net5.0\get and set.runtimeconfig.dev.json
+D:\csharp\get and set\bin\Debug\net5.0\get and set.dll
+D:\csharp\get and set\bin\Debug\net5.0\ref\get and set.dll
+D:\csharp\get and set\bin\Debug\net5.0\get and set.pdb
+D:\csharp\get and set\obj\Debug\net5.0\get and set.dll
+D:\csharp\get and set\obj\Debug\net5.0\ref\get and set.dll
+D:\csharp\get and set\obj\Debug\net5.0\get and set.pdb
+D:\csharp\get and set\obj\Debug\net5.0\get and set.genruntimeconfig.cache

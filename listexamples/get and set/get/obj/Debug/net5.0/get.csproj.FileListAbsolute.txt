@@ -1,0 +1,16 @@
+D:\csharp\get\obj\Debug\net5.0\get.csprojAssemblyReference.cache
+D:\csharp\get\obj\Debug\net5.0\get.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\get\obj\Debug\net5.0\get.AssemblyInfoInputs.cache
+D:\csharp\get\obj\Debug\net5.0\get.AssemblyInfo.cs
+D:\csharp\get\obj\Debug\net5.0\get.csproj.CoreCompileInputs.cache
+D:\csharp\get\bin\Debug\net5.0\get.exe
+D:\csharp\get\bin\Debug\net5.0\get.deps.json
+D:\csharp\get\bin\Debug\net5.0\get.runtimeconfig.json
+D:\csharp\get\bin\Debug\net5.0\get.runtimeconfig.dev.json
+D:\csharp\get\bin\Debug\net5.0\get.dll
+D:\csharp\get\bin\Debug\net5.0\ref\get.dll
+D:\csharp\get\bin\Debug\net5.0\get.pdb
+D:\csharp\get\obj\Debug\net5.0\get.dll
+D:\csharp\get\obj\Debug\net5.0\ref\get.dll
+D:\csharp\get\obj\Debug\net5.0\get.pdb
+D:\csharp\get\obj\Debug\net5.0\get.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.csprojAssemblyReference.cache
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.AssemblyInfoInputs.cache
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.AssemblyInfo.cs
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.exe
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.deps.json
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.runtimeconfig.json
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.runtimeconfig.dev.json
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.dll
+D:\csharp\polymorphism\bin\Debug\net5.0\ref\polymorphism.dll
+D:\csharp\polymorphism\bin\Debug\net5.0\polymorphism.pdb
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.dll
+D:\csharp\polymorphism\obj\Debug\net5.0\ref\polymorphism.dll
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.pdb
+D:\csharp\polymorphism\obj\Debug\net5.0\polymorphism.genruntimeconfig.cache
