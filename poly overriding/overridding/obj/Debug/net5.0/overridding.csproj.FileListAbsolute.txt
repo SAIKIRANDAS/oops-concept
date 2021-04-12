@@ -1,0 +1,16 @@
+D:\csharp\overridding\obj\Debug\net5.0\overridding.csprojAssemblyReference.cache
+D:\csharp\overridding\obj\Debug\net5.0\overridding.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\overridding\obj\Debug\net5.0\overridding.AssemblyInfoInputs.cache
+D:\csharp\overridding\obj\Debug\net5.0\overridding.AssemblyInfo.cs
+D:\csharp\overridding\obj\Debug\net5.0\overridding.csproj.CoreCompileInputs.cache
+D:\csharp\overridding\bin\Debug\net5.0\overridding.exe
+D:\csharp\overridding\bin\Debug\net5.0\overridding.deps.json
+D:\csharp\overridding\bin\Debug\net5.0\overridding.runtimeconfig.json
+D:\csharp\overridding\bin\Debug\net5.0\overridding.runtimeconfig.dev.json
+D:\csharp\overridding\bin\Debug\net5.0\overridding.dll
+D:\csharp\overridding\bin\Debug\net5.0\ref\overridding.dll
+D:\csharp\overridding\bin\Debug\net5.0\overridding.pdb
+D:\csharp\overridding\obj\Debug\net5.0\overridding.dll
+D:\csharp\overridding\obj\Debug\net5.0\ref\overridding.dll
+D:\csharp\overridding\obj\Debug\net5.0\overridding.pdb
+D:\csharp\overridding\obj\Debug\net5.0\overridding.genruntimeconfig.cache

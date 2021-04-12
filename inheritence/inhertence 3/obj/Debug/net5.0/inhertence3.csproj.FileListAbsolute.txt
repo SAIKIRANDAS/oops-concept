@@ -1,0 +1,16 @@
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.csprojAssemblyReference.cache
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.AssemblyInfoInputs.cache
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.AssemblyInfo.cs
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.exe
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.deps.json
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.runtimeconfig.json
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.runtimeconfig.dev.json
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.dll
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\ref\inhertence3.dll
+D:\csharp\3 examples\inheritence\inhertence3\bin\Debug\net5.0\inhertence3.pdb
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.dll
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\ref\inhertence3.dll
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.pdb
+D:\csharp\3 examples\inheritence\inhertence3\obj\Debug\net5.0\inhertence3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.csprojAssemblyReference.cache
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.AssemblyInfoInputs.cache
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.AssemblyInfo.cs
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.exe
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.deps.json
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.runtimeconfig.json
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.runtimeconfig.dev.json
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.dll
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\ref\override2.dll
+D:\csharp\3 examples\poly overriding\override2\bin\Debug\net5.0\override2.pdb
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.dll
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\ref\override2.dll
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.pdb
+D:\csharp\3 examples\poly overriding\override2\obj\Debug\net5.0\override2.genruntimeconfig.cache

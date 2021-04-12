@@ -1,0 +1,19 @@
+object:
+    instance of class; is nothing but getting the details of the class for cfeating the object.
+class:
+    collection of objects; 
+Abstraction:
+       hiding the unwanted data, hiding the complexity of design; 
+	   abstract can be achived by using access specifier; i.e public(any one can access the data),private(it can be access by the user),protect(it will be protected from the public).
+encaptulation:
+binding the data in asingle unit is nothing but hold the data i.e dta member and member function in a single unit.
+inheritence:we can access the base class by using the derived class by using the properties baseclass.
+
+polymorphism:one task can perform many ways that is nothing but there is no changes in the method.
+   1)method overloading :it is nothing but method will wont change but the parameters and signatures will get the changes 
+   2)method overriding   :it is nothing but there is no changes in the method  but changes occurs in functionality. in this will use concepts called as virtual,override.
+abstract class: in abstract class it caan be declared but not be defined. what ever the methods are created in abstractclass all are abstract methods.
+interface: A class can inherit from a class or from an interface.
+constructor :constructor is nothing but method and while creating the object method will automatically created.  
+   
+   
