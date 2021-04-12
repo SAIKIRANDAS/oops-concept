@@ -1,0 +1,16 @@
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.csprojAssemblyReference.cache
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.AssemblyInfoInputs.cache
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.AssemblyInfo.cs
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.csproj.CoreCompileInputs.cache
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.exe
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.deps.json
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.runtimeconfig.json
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.runtimeconfig.dev.json
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.dll
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\ref\abstract1.dll
+D:\csharp\3 examples\abstract class\abstract1\bin\Debug\net5.0\abstract1.pdb
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.dll
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\ref\abstract1.dll
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.pdb
+D:\csharp\3 examples\abstract class\abstract1\obj\Debug\net5.0\abstract1.genruntimeconfig.cache
